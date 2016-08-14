@@ -53,3 +53,7 @@ Configuration variables:
 - **username** (*Required*): Your Nest username.
 - **password** (*Required*): Your Nest password.
 - **structure** (*Optional*): The structure or structures you would like to include devices from. If not specified, this will include all structures in your Nest account.
+
+<p class='note'>
+Be sure to use the main Nest account username/password.  Shared accounts are known to cause problems.
+</p>
